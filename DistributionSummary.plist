@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PcbERP.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>buildNumber</key>
+			<string>1</string>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>9AB0460DE0BBFA70F328782EB3D98C8D5AB2C363</string>
+				<key>dateExpires</key>
+				<string>2022/10/20</string>
+				<key>type</key>
+				<string>iOS Distribution</string>
+			</dict>
+			<key>embeddedBinaries</key>
+			<array>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>buildNumber</key>
+					<string>1</string>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>9AB0460DE0BBFA70F328782EB3D98C8D5AB2C363</string>
+						<key>dateExpires</key>
+						<string>2022/10/20</string>
+						<key>type</key>
+						<string>iOS Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>OpenSSL.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>ZRM933XUH8</string>
+						<key>name</key>
+						<string>Shenzhen Koimy Software Company Ltd.</string>
+					</dict>
+					<key>versionNumber</key>
+					<string>1.1.180</string>
+				</dict>
+			</array>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>ZRM933XUH8.com.cimforce.pcberp</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>ZRM933XUH8</string>
+				<key>get-task-allow</key>
+				<false/>
+				<key>keychain-access-groups</key>
+				<array>
+					<string>ZRM933XUH8.com.cimforce.pcberp</string>
+				</array>
+			</dict>
+			<key>name</key>
+			<string>PcbERP.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>8b59b288-6870-4c34-9a38-7b9ebcef71aa</string>
+				<key>dateExpires</key>
+				<string>2022/10/20</string>
+				<key>name</key>
+				<string>pcberp_hoc_202110</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>ZRM933XUH8</string>
+				<key>name</key>
+				<string>Shenzhen Koimy Software Company Ltd.</string>
+			</dict>
+			<key>versionNumber</key>
+			<string>1.0.0</string>
+		</dict>
+	</array>
+</dict>
+</plist>
